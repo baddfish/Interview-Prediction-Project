@@ -3,8 +3,8 @@
 
 # A brief description of the variables in the dataset
 
-# Date of Interview
-# This date refers to the day the candidates were scheduled for the interview. The formats vary.
+#Date of Interview
+#This date refers to the day the candidates were scheduled for the interview. The formats vary.
 Client nameThe clients that gave the recruitment vendor the requisite mandate
 
 # Industry
